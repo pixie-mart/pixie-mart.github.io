@@ -1,30 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.3185d14d.chunk.css",
-    "main.js": "/static/js/main.7eca7a23.chunk.js",
-    "main.js.map": "/static/js/main.7eca7a23.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f3d50e09.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f3d50e09.js.map",
+    "main.css": "/static/css/main.9b45d040.chunk.css",
+    "main.js": "/static/js/main.a0f80acc.chunk.js",
+    "main.js.map": "/static/js/main.a0f80acc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e1c15c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e1c15c9.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.9ca9ff21.chunk.js": "/static/js/2.9ca9ff21.chunk.js",
-    "static/js/2.9ca9ff21.chunk.js.map": "/static/js/2.9ca9ff21.chunk.js.map",
-    "static/js/3.9382e53d.chunk.js": "/static/js/3.9382e53d.chunk.js",
-    "static/js/3.9382e53d.chunk.js.map": "/static/js/3.9382e53d.chunk.js.map",
+    "static/js/2.606b9633.chunk.js": "/static/js/2.606b9633.chunk.js",
+    "static/js/2.606b9633.chunk.js.map": "/static/js/2.606b9633.chunk.js.map",
+    "static/js/3.563382f9.chunk.js": "/static/js/3.563382f9.chunk.js",
+    "static/js/3.563382f9.chunk.js.map": "/static/js/3.563382f9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.3185d14d.chunk.css.map": "/static/css/main.3185d14d.chunk.css.map",
-    "static/js/2.9ca9ff21.chunk.js.LICENSE.txt": "/static/js/2.9ca9ff21.chunk.js.LICENSE.txt",
+    "static/css/main.9b45d040.chunk.css.map": "/static/css/main.9b45d040.chunk.css.map",
+    "static/js/2.606b9633.chunk.js.LICENSE.txt": "/static/js/2.606b9633.chunk.js.LICENSE.txt",
+    "static/media/best_price.a2ba6be3.png": "/static/media/best_price.a2ba6be3.png",
     "static/media/cycle1.09db09ff.png": "/static/media/cycle1.09db09ff.png",
     "static/media/cycle2.517f8a8f.png": "/static/media/cycle2.517f8a8f.png",
     "static/media/cycle3.93662610.png": "/static/media/cycle3.93662610.png",
     "static/media/px_logo_3d.1ad79cba.png": "/static/media/px_logo_3d.1ad79cba.png",
-    "static/media/px_logo_white.16a16091.png": "/static/media/px_logo_white.16a16091.png"
+    "static/media/px_logo_dark.0eb7738e.png": "/static/media/px_logo_dark.0eb7738e.png",
+    "static/media/px_logo_white.16a16091.png": "/static/media/px_logo_white.16a16091.png",
+    "static/media/refburnised.0c07f0c8.png": "/static/media/refburnised.0c07f0c8.png",
+    "static/media/service.9851732d.png": "/static/media/service.9851732d.png",
+    "static/media/truck_load.dd219de3.png": "/static/media/truck_load.dd219de3.png",
+    "static/media/warranty.4e7e6e53.png": "/static/media/warranty.4e7e6e53.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3d50e09.js",
+    "static/js/runtime-main.3e1c15c9.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.9ca9ff21.chunk.js",
-    "static/css/main.3185d14d.chunk.css",
-    "static/js/main.7eca7a23.chunk.js"
+    "static/js/2.606b9633.chunk.js",
+    "static/css/main.9b45d040.chunk.css",
+    "static/js/main.a0f80acc.chunk.js"
   ]
 }
